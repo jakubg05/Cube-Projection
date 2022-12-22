@@ -2,5 +2,5 @@
 
 Basic projection of a cube
 
-<b>Move:</b> w a s d <br/>
-<b>Rotate:</b> (Up, Down, Left, Right) arrows
+<b>Move:</b> <i>w a s d</i> <br/>
+<b>Rotate:</b> <i>(Up, Down, Left, Right) arrows</i>
